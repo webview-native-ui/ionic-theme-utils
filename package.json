@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rdlabo-dev/ionic-theme-utils.git"
+    "url": "git+ssh://git@github.com/webview-native-ui/ionic-theme-utils.git"
   },
   "keywords": [
     "ionic",
@@ -57,9 +57,9 @@
   "author": "Masahiko Sakakibara <sakakibara@rdlabo.jp>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rdlabo-dev/ionic-theme-utils/issues"
+    "url": "https://github.com/webview-native-ui/ionic-theme-utils/issues"
   },
-  "homepage": "https://github.com/rdlabo-dev/ionic-theme-utils#readme",
+  "homepage": "https://github.com/webview-native-ui/ionic-theme-utils#readme",
   "peerDependencies": {
     "@ionic/core": ">=8.8.1 <10"
   },
